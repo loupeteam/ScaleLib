@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: Scale_Lib
- * File: Scale_Lib.typ
- * Author: David
- * Created: August 10, 2010
- ********************************************************************
- * Data types of library Scale_Lib
- ********************************************************************)
+(*
+ * File: ScaleLib.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ScaleLib, licensed under the MIT License.
+ *
+ *)
 
 TYPE
 	Scale_OUT_STAT_typ : 	STRUCT 

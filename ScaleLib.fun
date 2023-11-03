@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: Scale_Lib
- * File: Scale_Lib.fun
- * Author: David
- * Created: August 10, 2010
- ********************************************************************
- * Functions and function blocks of library Scale_Lib
- ********************************************************************)
+(*
+ * File: ScaleLib.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ScaleLib, licensed under the MIT License.
+ *
+ *)
 
 FUNCTION ScaleFnCyclic : BOOL (*Cyclic function for scaling*)
 	VAR_IN_OUT

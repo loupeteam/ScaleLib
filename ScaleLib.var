@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: Scale_Lib
- * File: Scale_Lib.var
- * Author: David
- * Created: August 10, 2010
- ********************************************************************
- * Constants of library Scale_Lib
- ********************************************************************)
+(*
+ * File: ScaleLib.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ScaleLib, licensed under the MIT License.
+ *
+ *)
 
 VAR CONSTANT
 
